@@ -27,6 +27,7 @@ set wildmenu " command autocomplete menu
 set showmatch " highlight matching brackets
 set backspace=indent,eol,start " allow backspace over indent, line breaks, start of insert
 set noundofile " disable undo file
+set viminfo="" " disable viminfo
 set autoread " reload files changed outside of vim
 
 " <leader> is backslash by default
