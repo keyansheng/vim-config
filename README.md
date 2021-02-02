@@ -1,12 +1,12 @@
 # Install
 
 ```bash
-git clone https://github.com/keyansheng/vimrc ~/.vim
+git clone https://github.com/keyansheng/vimrc $HOME/.vim
 ```
 
 # Update
 
 ```bash
-cd ~/.vim
+cd $HOME/.vim
 git pull
 ```
