@@ -1,7 +1,7 @@
 # Install
 
 ```bash
-git clone https://github.com/keyansheng/vimrc $HOME/.vim
+git clone https://github.com/keyansheng/vim-config $HOME/.vim
 ```
 
 # Update
