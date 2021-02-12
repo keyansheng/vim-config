@@ -29,6 +29,7 @@ set backspace=indent,eol,start " allow backspace over indent, line breaks, start
 set noundofile " disable undo file
 set viminfo="" " disable viminfo
 set autoread " reload files changed outside of vim
+set fileformats=unix,dos
 
 " <leader> is backslash by default
 
