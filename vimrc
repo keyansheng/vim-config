@@ -39,7 +39,3 @@ nnoremap <leader><leader> :nohlsearch<CR>
 
 " open/close fold
 nnoremap <space> za
-
-" move vertically by visual line
-nnoremap j gj
-nnoremap k gk
