@@ -23,13 +23,14 @@ set relativenumber " relative line numbers
 set laststatus=2 " status line: 0/1/2=never/when >=2 windows/always
 set showcmd " show command in bottom bar
 
-set wildmenu " command autocomplete menu
-set showmatch " highlight matching brackets
-set backspace=indent,eol,start " allow backspace over indent, line breaks, start of insert
 set noundofile " disable undo file
 set viminfo="" " disable viminfo
+
 set autoread " reload files changed outside of vim
+set backspace=indent,eol,start " allow backspace over indent, line breaks, start of insert
 set fileformats=unix,dos
+set showmatch " highlight matching brackets
+set wildmenu " command autocomplete menu
 
 " <leader> is backslash by default
 
