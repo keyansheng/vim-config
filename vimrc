@@ -19,7 +19,6 @@ set foldnestmax=10 " maximum 10 nested folds
 
 set ruler " show row, column and position (Top/Bot/All/45%)
 set number " line numbers
-set relativenumber " relative line numbers
 set laststatus=2 " status line: 0/1/2=never/when >=2 windows/always
 set showcmd " show command in bottom bar
 
