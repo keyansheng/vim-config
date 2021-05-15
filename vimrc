@@ -24,6 +24,7 @@ set showcmd " show command in bottom bar
 
 set noundofile " disable undo file
 set viminfo="" " disable viminfo
+let g:netrw_dirhistmax=0 " disable netrw history
 
 set autoread " reload files changed outside of vim
 set backspace=indent,eol,start " allow backspace over indent, line breaks, start of insert
