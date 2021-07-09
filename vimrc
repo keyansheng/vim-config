@@ -39,3 +39,5 @@ nnoremap <leader><leader> :nohlsearch<CR>
 
 " open/close fold
 nnoremap <space> za
+
+set guifont=Cascadia_Code_PL:h11 " set gvim font and font size
