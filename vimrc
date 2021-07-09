@@ -28,7 +28,7 @@ let g:netrw_dirhistmax=0 " disable netrw history
 
 set autoread " reload files changed outside of vim
 set backspace=indent,eol,start " allow backspace over indent, line breaks, start of insert
-set fileformats=unix,dos
+set fileformats=unix,dos " set line endings to LF by default
 set showmatch " highlight matching brackets
 set wildmenu " command autocomplete menu
 
